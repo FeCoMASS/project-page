@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Robert Heinrich
+title: PD Dr. Robert Heinrich
 
 # Username (this should match the folder name)
 authors:
