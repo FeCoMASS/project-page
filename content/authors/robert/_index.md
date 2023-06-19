@@ -31,7 +31,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=UehL8rQAAAAJ&hl=en
-  - icon: circle-user
+  - icon: globe
     icon_pack: fas
     link: https://dsis.kastel.kit.edu/staff_robert_heinrich.php
 # Link to a PDF of your resume/CV from the About widget.
