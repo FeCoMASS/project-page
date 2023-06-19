@@ -33,7 +33,7 @@ social:
     link: https://scholar.google.com/citations?user=UehL8rQAAAAJ&hl=en
   - icon: circle-user
     icon_pack: fas
-    link: https://se-rwth.github.io/staff/Bernhard.Rumpe/
+    link: https://dsis.kastel.kit.edu/staff_robert_heinrich.php
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
