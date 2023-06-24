@@ -20,7 +20,7 @@ design:
 
 <br>
 <p style="font-size:70%;">
-<strong>Principal Investigators:</strong> Dr. Robert Heinrich and Prof. Dr. Bernhard Rumpe<br>
+<strong>Principal Investigators:</strong> <a href="https://dsis.kastel.kit.edu/staff_robert_heinrich.php">PD Dr. Robert Heinrich</a> and <a href="https://se-rwth.github.io/staff/Bernhard.Rumpe/">Prof. Dr. Bernhard Rumpe</a><br>
 <strong>Funded by:</strong> DFG - Deutsche Forschungsgemeinschaft (grant number: 499241390)<br>
 <strong>Organizations:</strong> Karlsruhe Institute of Technology and RWTH Aachen University<br>
 <strong>Duration:</strong> 01.2023 - 12.2025
