@@ -17,7 +17,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'European Conference on Software Architecture'
-publication_short: 'European Conference on Software Architecture'
+publication_short: 'ECSA'
 
 abstract: Reusing a simulation or parts of a simulation is difficult, because simulations are tightly coupled to a specific domain or even to the system analysed by the simulation. In a set of simulation components, either publicly available or from internal repositories, it is difficult for simulation developers to find simulation components that can be reused in a new context. They have to understand the structure and the behaviour of a component to determine, whether it fits for the new context. To address this problem, we introduce our toolchain that allows simulation developers to specify the structure and behaviour of a simulation component. We utilise a state-of-the-art graph database and an SMT theorem prover to compare a simulation components. This allows simulation developers to compare and search for simulation components that can be reused instead of being redeveloped. 
 
