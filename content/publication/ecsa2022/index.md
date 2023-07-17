@@ -4,7 +4,7 @@ authors:
   - Sandro Koch
   - Frederik Reiche
 date: '2023-01-13T00:00:00Z'
-# doi: ''
+# doi: '10.1007/978-3-031-36889-9_7'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-13T00:00:00Z'
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/978-3-031-36889-9_7.pdf?pdf=inline%20link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
